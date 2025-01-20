@@ -6,4 +6,5 @@ HISTORY
 ```
 DEV V0.0 INIT
 DEV V0.1 Feature Merge
+DEV V0.2 Freture Rebase Merge
 ```
